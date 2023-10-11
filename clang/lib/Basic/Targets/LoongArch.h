@@ -40,6 +40,7 @@ public:
     SuitableAlign = 128;
     WCharType = SignedInt;
     WIntType = UnsignedInt;
+    HasFloat128 = true;
     HasFloat16 = true;
   }
 
